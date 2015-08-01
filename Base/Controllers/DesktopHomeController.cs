@@ -13,5 +13,15 @@ namespace Base.Controllers
         {
             return View();
         }
+
+        public ActionResult About()
+        {
+            return View();
+        }
+
+        public ActionResult header()
+        {
+            return PartialView();
+        }
     }
 }

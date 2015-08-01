@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "About";
+}
+
+<article id="data-required" data-required="about">
+    <p>lName: <input data-bind="value: lName" /></p>
+
+    <p data-bind="module: {name: 'module', template: 'about'}"></p>
+
+    <p data-bind="module: {name: 'module2', template: 'about2'}"></p>
+</article>
+

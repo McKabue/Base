@@ -15,7 +15,7 @@ namespace Base
 
             routes.MapRoute(
                 name: "Default",
-                url: "{controller}/{action}/{id}",
+                url: "{action}/{id}",
                 defaults: new { controller = "DesktopHome", action = "Index", id = UrlParameter.Optional }
             );
         }
