@@ -9,10 +9,10 @@ define(['services/includeIn'], function (includeIn) {
     var viewmodel = {
         activate: function () {
             
-            alert('index activate');
+            //alert('index activate');
 
             var x = this.clientErrorHandler('index');
-            alert(x);
+            //alert(x);
         },
         firstName: firstName,
         firstNameCaps: firstNameCaps
