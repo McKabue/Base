@@ -160,6 +160,8 @@
   <ItemGroup>
     <Content Include="app\main.js" />
     <Content Include="app\services\includeIn.js" />
+    <Content Include="app\inherit\inherit.html" />
+    <Content Include="app\inherit\inherit.js" />
     <Content Include="app\views\about.tmpl.html" />
     <Content Include="app\views\about2.tmpl.html" />
     <Content Include="app\viewmodels\about.js" />
@@ -225,6 +227,8 @@
     <Content Include="Scripts\jquery-2.1.3.min.map" />
     <Content Include="Views\DesktopHome\About.cshtml" />
     <Content Include="Views\DesktopHome\header.cshtml" />
+    <Content Include="Views\DesktopHome\about1.cshtml" />
+    <Content Include="Views\DesktopHome\about2.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
