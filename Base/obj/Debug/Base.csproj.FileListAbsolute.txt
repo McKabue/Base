@@ -56,3 +56,9 @@ B:\Docs\REPOS\Base\Base\obj\Debug\Base.csproj.App.config
 B:\Docs\REPOS\Base\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
 B:\Docs\REPOS\Base\Base\obj\Debug\Base.dll
 B:\Docs\REPOS\Base\Base\obj\Debug\Base.pdb
+B:\Docs\REPOS\Base\Base\bin\EntityFramework.dll
+B:\Docs\REPOS\Base\Base\bin\EntityFramework.SqlServer.dll
+B:\Docs\REPOS\Base\Base\bin\MySql.Data.dll
+B:\Docs\REPOS\Base\Base\bin\MySql.Data.Entity.EF6.dll
+B:\Docs\REPOS\Base\Base\bin\EntityFramework.xml
+B:\Docs\REPOS\Base\Base\bin\EntityFramework.SqlServer.xml

@@ -177,6 +177,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app\main.js" />
+    <Content Include="app\services\activate.js" />
+    <Content Include="app\services\appsecurity.js" />
     <Content Include="app\services\includeIn.js" />
     <Content Include="app\inherit\inherit.html" />
     <Content Include="app\inherit\inherit.js" />

@@ -25,7 +25,8 @@ require([vm, "knockout-amd-helpers", "text", "knockout-postbox"], function (view
     ko.amdTemplateEngine.defaultSuffix = "/";
 
 
-    if (typeof(viewmodel.activate) != 'undefined') {
+    if (typeof (viewmodel.activate) != 'undefined') {
+        
         viewmodel.activate();
     }
     ko.applyBindings(viewmodel);
